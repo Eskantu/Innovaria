@@ -1,0 +1,6 @@
+@Innovaria.API_HostAddress = http://localhost:5145
+
+GET {{Innovaria.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
